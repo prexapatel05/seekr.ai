@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078708190038",
+    "project_id": "seekerai-504b9",
+    "storage_bucket": "seekerai-504b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078708190038:android:573acc96fd2be6bb4034f7",
+        "android_client_info": {
+          "package_name": "com.example.seekauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXQ77jFAneGMAgz7hx9VdvNpGTucvZL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078708190038:android:03d051b74a4cb62f4034f7",
+        "android_client_info": {
+          "package_name": "seeker.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXQ77jFAneGMAgz7hx9VdvNpGTucvZL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
